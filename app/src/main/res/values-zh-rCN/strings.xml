@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">手机参数</string>
+    <string name="action_settings">设置</string>
+
+    <string name="screen_size">屏幕尺寸(inch)&#160;%1$s</string>
+    <string name="screen_dpi">像素密度(dpi)&#160;%1$s</string>
+
+    <string name="screen_size_x">宽&#160;%1$s</string>
+    <string name="screen_size_y">高&#160;%1$s</string>
+
+    <string name="statusbar_height">状态栏高度&#160;%1$s</string>
+    <string name="keybar_height">虚拟按键高度&#160;%1$s</string>
+
+    <string name="cpu_type">CPU类型&#160;%1$s</string>
+</resources>
